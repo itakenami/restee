@@ -7,7 +7,7 @@ Archetype para criar projetos REST EE com a LIB rest-util.
 * **Finalidade:** Criar projeto REST EE com a LIB rest-util.
 * **Gerenciamento e Automação:** Maven
 
-## Comandos
+## Como Gerar o Archetype
 
 	mvn archetype:create-from-project
 
